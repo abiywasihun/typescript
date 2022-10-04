@@ -54,4 +54,6 @@ function getCusotmer(id) {
 }
 let customer = getCusotmer(1);
 console.log(customer === null || customer === void 0 ? void 0 : customer.BirthDate);
+let log = null;
+log === null || log === void 0 ? void 0 : log('a');
 //# sourceMappingURL=index.js.map
